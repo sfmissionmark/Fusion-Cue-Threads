@@ -1,0 +1,20 @@
+# Fusion Cue Threads
+Standard cue threads for Fusion 360
+
+## Installation
+Copy this file to 
+~/Library/Application Support/Autodesk/webdeploy/production/Autodesk Fusion 360.app/Contents/Libraries/Applications/Fusion/Fusion/Server/Fusion/Configuration/ThreadData/
+
+## Usage
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
