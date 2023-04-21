@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Cue Threads</Name>
+  <CustomName>Cue Threads</CustomName>
+  <Unit>in</Unit>
+  <Angle>29</Angle>
+  <SortOrder>15</SortOrder>
+  <ThreadSize>
+    <Size>Predator Radial</Size>
+    <Designation>
+      <ThreadDesignation>Radial</ThreadDesignation>
+      <CTD>0.375</CTD>
+      <TPI>7.64</TPI>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>ABS</Class>
+        <MajorDia>0.373</MajorDia>
+        <PitchDia>0.3344</PitchDia>
+        <MinorDia>0.3006</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>ABS 0.41 hole size</Class>
+        <MajorDia>0.403</MajorDia>
+        <PitchDia>0.3644</PitchDia>
+        <MinorDia>0.3306</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
